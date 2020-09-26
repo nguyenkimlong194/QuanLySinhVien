@@ -1,0 +1,11 @@
+.panel-heading{
+    text-align: center;
+    font-size: 30px;
+    color: #070505;
+    background-color: #ffc107;
+    margin: 3rem 0;
+    padding: 20px;
+}
+.title{
+    background-color: #73e241;
+}
